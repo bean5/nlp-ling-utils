@@ -1,0 +1,9 @@
+[submodule "nlp-alliteration-locator"]
+	path = nlp-alliteration-locator
+	url = git@github.com:bean5/nlp-alliteration-locator.git
+[submodule "syntree"]
+	path = syntree
+	url = git@github.com:bean5/syntree.git
+[submodule "wordcloud"]
+	path = wordcloud
+	url = git@github.com:timdream/wordcloud.git
